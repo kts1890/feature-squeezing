@@ -1,0 +1,3 @@
+RobustClassifier,legitimate_10000,fgsm?eps=0.5
+none,0.99429999999999996,0.25
+FeatureSqueezing?squeezer=bit_depth_1,0.99329999999999996,0.10000000000000001

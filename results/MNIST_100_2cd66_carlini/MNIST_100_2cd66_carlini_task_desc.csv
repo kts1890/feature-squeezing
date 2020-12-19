@@ -1,0 +1,2 @@
+dataset_name,model_name,accuracy_test,mean_confidence_test,test_set_selected_length,test_set_selected_idx_ranges,test_set_selected_idx_hash,accuracy_test_selected,mean_confidence_test_selected
+MNIST,carlini,0.99429999999999996,0.99388574222819692,100,"0-64:1,66,68-73:1,75-78:1,81,82,84,87,88,90-92:1,98,101,102-110:4,119,120,126-128:1,134,146,177-181:2,184",2cd668f61866909792aa697e6229c6a3f0465c80,1.0,0.99999206185340883

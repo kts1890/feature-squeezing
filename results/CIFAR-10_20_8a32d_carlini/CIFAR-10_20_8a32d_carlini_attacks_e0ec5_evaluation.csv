@@ -1,0 +1,2 @@
+dataset_name,model_name,attack_string,duration_per_sample,discretization,success_rate,mean_confidence,mean_l2_dist,mean_li_dist,mean_l0_dist_value,mean_l0_dist_pixel
+CIFAR-10,carlini,fgsm?eps=0.4,0.0203094482421875,True,0.90000000000000002,0.99952847737718598,19.620675216977641,0.4,0.99687138310185175,0.99994574652777779

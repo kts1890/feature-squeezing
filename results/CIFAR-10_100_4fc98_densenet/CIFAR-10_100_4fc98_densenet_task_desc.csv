@@ -1,0 +1,2 @@
+dataset_name,model_name,accuracy_test,mean_confidence_test,test_set_selected_length,test_set_selected_idx_ranges,test_set_selected_idx_hash,accuracy_test_selected,mean_confidence_test_selected
+CIFAR-10,densenet,0.94840000000000002,0.92145961054427317,100,"0-52:1,54-57:1,59,60,63,65-67:1,69,70,72-77:1,79,81-87:1,90,91-97:3,98,101,103-106:1,110,113-115:1,117,118,121,122,128,130,159",4fc98a7dc4f1bfddc32cd8954ff9876d3533d990,1.0,0.95545764714479442

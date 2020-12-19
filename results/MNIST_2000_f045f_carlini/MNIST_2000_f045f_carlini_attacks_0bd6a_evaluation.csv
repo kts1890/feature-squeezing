@@ -1,0 +1,2 @@
+dataset_name,model_name,attack_string,duration_per_sample,discretization,success_rate,mean_confidence,mean_l2_dist,mean_li_dist,mean_l0_dist_value,mean_l0_dist_pixel
+MNIST,carlini,fgsm?eps=0.3,0.003379749059677124,True,0.50700000000000001,0.95010820308845967,5.93617667580817,0.301961,0.56187608179366422,0.56187608179366422

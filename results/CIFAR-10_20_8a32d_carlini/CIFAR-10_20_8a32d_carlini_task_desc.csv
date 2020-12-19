@@ -1,0 +1,2 @@
+dataset_name,model_name,accuracy_test,mean_confidence_test,test_set_selected_length,test_set_selected_idx_ranges,test_set_selected_idx_hash,accuracy_test_selected,mean_confidence_test_selected
+CIFAR-10,carlini,0.77959999999999996,0.77275727162590591,20,"0-3:1,5-14:1,16,17,22,32,65,67",8a32d8802c2899829ed66cd25ceec069c2164c5f,1.0,0.96140342652797695
